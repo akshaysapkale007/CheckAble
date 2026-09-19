@@ -1,0 +1,209 @@
+[
+  {
+    "id": "implementation",
+    "name": "Implementation consultant",
+    "jd": "Implementation consultant\nRequired: Gather customer requirements and configure business systems.\nPreferred: Coordinate implementation testing and data migration.\nPreferred: Train customers and document workflows.",
+    "recruiterInstructions": "",
+    "revision": 1,
+    "rubric": [
+      "No relevance identified: described work has no meaningful connection to the active role.",
+      "Limited relevance: some overlap is described, but the role’s core work is not demonstrated.",
+      "Relevant experience: described work aligns with core responsibilities, with material parts of the brief unaddressed.",
+      "Strong relevance: substantial described work closely aligns with the active role, including recruiter-approved alternatives."
+    ],
+    "questionIds": [
+      "personal_task",
+      "process_improvement",
+      "problem_solving",
+      "implementation",
+      "requirements",
+      "customer_work",
+      "coordination",
+      "mentoring",
+      "contribution",
+      "applied_skills",
+      "outcomes",
+      "assessability"
+    ],
+    "filter": null,
+    "criteria": [
+      {
+        "id": "implementation_1",
+        "questionId": null,
+        "text": "Gather customer requirements and configure business systems.",
+        "status": "required",
+        "source": {
+          "kind": "jd",
+          "quote": "Gather customer requirements and configure business systems."
+        },
+        "approved": false,
+        "enabled": true,
+        "alternatives": []
+      },
+      {
+        "id": "implementation_2",
+        "questionId": null,
+        "text": "Coordinate implementation testing and data migration.",
+        "status": "preferred",
+        "source": {
+          "kind": "jd",
+          "quote": "Coordinate implementation testing and data migration."
+        },
+        "approved": false,
+        "enabled": true,
+        "alternatives": []
+      },
+      {
+        "id": "implementation_3",
+        "questionId": null,
+        "text": "Train customers and document workflows.",
+        "status": "preferred",
+        "source": {
+          "kind": "jd",
+          "quote": "Train customers and document workflows."
+        },
+        "approved": false,
+        "enabled": true,
+        "alternatives": []
+      }
+    ]
+  },
+  {
+    "id": "backend",
+    "name": "Backend engineer",
+    "jd": "Backend engineer\nRequired: Build and maintain backend APIs.\nPreferred: Work with relational databases and diagnose performance issues.\nPreferred: Write automated tests and review code.",
+    "recruiterInstructions": "",
+    "revision": 1,
+    "rubric": [
+      "No relevance identified: described work has no meaningful connection to the active role.",
+      "Limited relevance: some overlap is described, but the role’s core work is not demonstrated.",
+      "Relevant experience: described work aligns with core responsibilities, with material parts of the brief unaddressed.",
+      "Strong relevance: substantial described work closely aligns with the active role, including recruiter-approved alternatives."
+    ],
+    "questionIds": [
+      "personal_task",
+      "process_improvement",
+      "problem_solving",
+      "implementation",
+      "requirements",
+      "customer_work",
+      "coordination",
+      "mentoring",
+      "contribution",
+      "applied_skills",
+      "outcomes",
+      "assessability"
+    ],
+    "filter": null,
+    "criteria": [
+      {
+        "id": "backend_1",
+        "questionId": null,
+        "text": "Build and maintain backend APIs.",
+        "status": "required",
+        "source": {
+          "kind": "jd",
+          "quote": "Build and maintain backend APIs."
+        },
+        "approved": false,
+        "enabled": true,
+        "alternatives": []
+      },
+      {
+        "id": "backend_2",
+        "questionId": null,
+        "text": "Work with relational databases and diagnose performance issues.",
+        "status": "preferred",
+        "source": {
+          "kind": "jd",
+          "quote": "Work with relational databases and diagnose performance issues."
+        },
+        "approved": false,
+        "enabled": true,
+        "alternatives": []
+      },
+      {
+        "id": "backend_3",
+        "questionId": null,
+        "text": "Write automated tests and review code.",
+        "status": "preferred",
+        "source": {
+          "kind": "jd",
+          "quote": "Write automated tests and review code."
+        },
+        "approved": false,
+        "enabled": true,
+        "alternatives": []
+      }
+    ]
+  },
+  {
+    "id": "finance",
+    "name": "Financial analyst",
+    "jd": "Financial analyst\nRequired: Prepare financial forecasts and analyze budget variances.\nPreferred: Reconcile financial data and explain findings to business partners.\nPreferred: Automate recurring reports using spreadsheets or programming.",
+    "recruiterInstructions": "",
+    "revision": 1,
+    "rubric": [
+      "No relevance identified: described work has no meaningful connection to the active role.",
+      "Limited relevance: some overlap is described, but the role’s core work is not demonstrated.",
+      "Relevant experience: described work aligns with core responsibilities, with material parts of the brief unaddressed.",
+      "Strong relevance: substantial described work closely aligns with the active role, including recruiter-approved alternatives."
+    ],
+    "questionIds": [
+      "personal_task",
+      "process_improvement",
+      "problem_solving",
+      "implementation",
+      "requirements",
+      "customer_work",
+      "coordination",
+      "mentoring",
+      "contribution",
+      "applied_skills",
+      "outcomes",
+      "assessability"
+    ],
+    "filter": null,
+    "criteria": [
+      {
+        "id": "finance_1",
+        "questionId": null,
+        "text": "Prepare financial forecasts and analyze budget variances.",
+        "status": "required",
+        "source": {
+          "kind": "jd",
+          "quote": "Prepare financial forecasts and analyze budget variances."
+        },
+        "approved": false,
+        "enabled": true,
+        "alternatives": []
+      },
+      {
+        "id": "finance_2",
+        "questionId": null,
+        "text": "Reconcile financial data and explain findings to business partners.",
+        "status": "preferred",
+        "source": {
+          "kind": "jd",
+          "quote": "Reconcile financial data and explain findings to business partners."
+        },
+        "approved": false,
+        "enabled": true,
+        "alternatives": []
+      },
+      {
+        "id": "finance_3",
+        "questionId": null,
+        "text": "Automate recurring reports using spreadsheets or programming.",
+        "status": "preferred",
+        "source": {
+          "kind": "jd",
+          "quote": "Automate recurring reports using spreadsheets or programming."
+        },
+        "approved": false,
+        "enabled": true,
+        "alternatives": []
+      }
+    ]
+  }
+]
